@@ -12,8 +12,18 @@ Automated Builds: CodeBuild triggers automatically on commits to master or devel
 Commits to master:
 Build and publish on port 82.
 
+
 Commits to develop: 
 Build without publishing.
 
 Dockerized Setup: 
 The project runs inside a Docker container with Ubuntu and Apache.
+
+## 📞 Contact Information
+
+For any inquiries or support, please contact us via:
+
+- **Email**: [![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=mail&logoColor=white)](mailto:support@example.com)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-k-229b23254)
+
+We look forward to hearing from you! �
